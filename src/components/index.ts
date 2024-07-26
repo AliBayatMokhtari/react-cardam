@@ -1,1 +1,1 @@
-export { default as MelliDebitCard } from "./melli/DebitCard";
+export { default as MelliDebitCard } from "./melli/DebitCard"
